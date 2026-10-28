@@ -10,7 +10,7 @@
   },
   "homepage": "https://alertasubastas.com/api/docs#mcp",
   "privacyPolicyUrl": "https://alertasubastas.com/info/privacidad",
-  "repository": "https://github.com/quimpg/alertasubastas-claude-plugin",
+  "repository": "https://github.com/alertasubastas/alertasubastas-claude-plugin",
   "license": "MIT",
   "keywords": [
     "subastas",
