@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "alertasubastas": {
+      "type": "http",
+      "url": "https://alertasubastas.com/mcp"
+    }
+  }
+}

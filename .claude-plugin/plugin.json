@@ -1,0 +1,24 @@
+{
+  "name": "alertasubastas",
+  "displayName": "AlertaSubastas",
+  "version": "1.0.0",
+  "description": "Subastas públicas de España (BOE, Seguridad Social, AEAT, notarías y ayuntamientos): buscar subastas con filtros, leer la ficha de un bien y seguir tus favoritas, con el conector MCP de AlertaSubastas.",
+  "author": {
+    "name": "AlertaSubastas, S.L.U.",
+    "email": "soporte@alertasubastas.com",
+    "url": "https://alertasubastas.com"
+  },
+  "homepage": "https://alertasubastas.com/api/docs#mcp",
+  "privacyPolicyUrl": "https://alertasubastas.com/info/privacidad",
+  "repository": "https://github.com/quimpg/alertasubastas-claude-plugin",
+  "license": "MIT",
+  "keywords": [
+    "subastas",
+    "boe",
+    "inmuebles",
+    "españa",
+    "seguridad-social",
+    "aeat"
+  ],
+  "icon": ".claude-plugin/icon.png"
+}
