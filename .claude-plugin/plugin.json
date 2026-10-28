@@ -8,8 +8,11 @@
     "email": "soporte@alertasubastas.com",
     "url": "https://alertasubastas.com"
   },
-  "homepage": "https://alertasubastas.com/api/docs#mcp",
+  "homepage": "https://alertasubastas.com",
+  "documentationUrl": "https://alertasubastas.com/api/docs#mcp",
+  "supportUrl": "https://alertasubastas.com/info/contactar",
   "privacyPolicyUrl": "https://alertasubastas.com/info/privacidad",
+  "termsOfServiceUrl": "https://alertasubastas.com/info/terminos-condiciones",
   "repository": "https://github.com/alertasubastas/alertasubastas-claude-plugin",
   "license": "MIT",
   "keywords": [
